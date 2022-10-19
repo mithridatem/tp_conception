@@ -1,0 +1,17 @@
+CAHIER DES CHARGES TP SQL
+
+Projet : Application recettes cuisines.
+
+
+Général :  Application de recettes de cuisine rapides pour tout public.Possibilité pour :		
+	-- Visiteurs : Visiter simplement le site , les articles , voir les commentaires, possibilité de s’inscrire.
+- Inscrits : se connecter ,laisser un commentaire, modif commentaire, modif                  compte, lire les articles/Recettes
+		- Admin : Ajouter/Suppr/créer/modif compte et articles + tous les droits dont il découle des Visiteurs + Inscrits.
+		
+
+
+
+
+
+Donc la on a : de l’inscription en BDD , de la modif, de la suppression, Des comptes admin et visiteurs et inscrits.
+
